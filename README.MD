@@ -1,0 +1,1 @@
+repository to showcase skill development (for Extended Project Qualificaion) in python by following the CS50P course. 
