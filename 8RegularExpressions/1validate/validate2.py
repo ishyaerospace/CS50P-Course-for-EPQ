@@ -1,0 +1,8 @@
+email = input("what's your email? ").strip()
+
+if "@" in email and "." in email:
+    print("Valid")
+else:
+    print("Invalid")
+
+# @. will also be valid
