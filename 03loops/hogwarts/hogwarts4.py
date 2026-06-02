@@ -8,4 +8,5 @@ students = {
 }
 
 for student in students:
-    print(student, students[student], sep=", ") # student_name, house 
+    print(student, students[student], sep=", ") 
+    # student_name, house 
